@@ -1,1 +1,1 @@
-# uniqast-knot-resolver
+# uniqast-knot-resolver-opennic
